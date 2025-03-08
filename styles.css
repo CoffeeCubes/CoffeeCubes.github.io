@@ -12,6 +12,11 @@ body {
   color: #333;
 }
 
+/* white Fonts */
+.white {
+  color: white;
+}
+
 /* Header */
 header {
   background-color: #2C3E50;
